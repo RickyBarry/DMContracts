@@ -1,17 +1,17 @@
-/**********************************************************************/
-/***  Migrate Stakeholders									    	***/
-/***  Created by RB Oct 2016								    	***/
-/***                                                                ***/
-/***  Insert Stakeholders											***/
-/***	from FIS.STAKEHOLDERS										***/
-/***	into wts_coillte.PARTY table								***/
-/***	and wts_coillte.PARTY_FUNCTIONS								***/
-/***	and wts_coillte.PARTY_ORG_SCOPE								***/
-/***	and wts_coillte.SD_PARTY_STAKEHOLDERS						***/
-/***                                                                ***/
-/***	Last modified												***/
-/***                                                                ***/
-/**********************************************************************/
+/**************************************************************************/
+/***  Migrate Stakeholders				    	        ***/
+/***  Created by RB Oct 2016					    	***/
+/***                                                                    ***/
+/***  Insert Stakeholders						***/
+/***	from FIS.STAKEHOLDERS						***/
+/***	into wts_coillte.PARTY table					***/
+/***	and wts_coillte.PARTY_FUNCTIONS					***/
+/***	and wts_coillte.PARTY_ORG_SCOPE					***/
+/***	and wts_coillte.SD_PARTY_STAKEHOLDERS				***/
+/***                                            	                ***/
+/***	Last modified							***/
+/***                                                                    ***/
+/**************************************************************************/
 
 USE wts_coillte 
 
